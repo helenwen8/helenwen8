@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @helenwen8
-- I will edit this later, because I am lazy.
-- But this is kinda cool and I like it!
+- I like programming, and dancing! 
 
 <!---
 helenwen8/helenwen8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
